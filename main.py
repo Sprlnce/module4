@@ -6,4 +6,4 @@ def strcounter(s: str):
     
     print(syms_counter)
 
-strcounter("Злой")
+strcounter("Трава")
